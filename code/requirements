@@ -1,0 +1,10 @@
+numpy
+pandas
+cvxopt
+econml
+scikit-learn
+scikit-optimize
+bayesian-optimization
+matplotlib
+PyWavelets
+seaborn
